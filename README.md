@@ -1,1 +1,1 @@
-# ArduinoNano-33IOT-AWS_IOT_CORE
+# ArduinoNano33IOT와 AWS-IOT-CORE 연결
