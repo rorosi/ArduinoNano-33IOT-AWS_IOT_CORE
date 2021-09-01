@@ -1,1 +1,1 @@
-# ArduinoNano33IOT와 AWS-IOT-CORE 연결
+# ArduinoNano33IOT의 WIFI 기능 BLE 기능 + AWS 
