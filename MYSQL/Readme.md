@@ -4,6 +4,7 @@
 (github.com/ChuckBell/MySQL_Connector_Arduino/wiki)
 
 
+
 ## 준비사항
 * MySQL 서버 및 MySQL 사용자 수정 권한
 * 아두이노 nano 33 IOT or 와이파이 모듈
