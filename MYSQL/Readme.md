@@ -2,7 +2,7 @@
 
 [![](https://user-images.githubusercontent.com/56014938/132097012-02068278-1238-400c-8c98-97cb4fa19318.png)](github.com/ChuckBell/MySQL_Connector_Arduino/wiki)
 
-
+github.com/ChuckBell/MySQL_Connector_Arduino/wiki
 
 ## 준비사항
 * MySQL 서버 및 MySQL 사용자 수정 권한
