@@ -1,7 +1,6 @@
 # 참고
 
-[![444](https://user-images.githubusercontent.com/56014938/132097012-02068278-1238-400c-8c98-97cb4fa19318.png)]
-(github.com/ChuckBell/MySQL_Connector_Arduino/wiki)
+[![](https://user-images.githubusercontent.com/56014938/132097012-02068278-1238-400c-8c98-97cb4fa19318.png)](github.com/ChuckBell/MySQL_Connector_Arduino/wiki)
 
 
 
