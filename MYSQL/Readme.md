@@ -119,9 +119,9 @@ void printWifiStatus() {
   Serial.println(" dBm");
 }
 ```
-```
-SELECT 예제
 
+SELECT 예제
+```
 #include <MySQL_Connection.h>
 #include <MySQL_Cursor.h>
 #include <SPI.h>
